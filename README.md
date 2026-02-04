@@ -18,17 +18,4 @@ Quero me aprofundar cada vez mais na área, aprender novas tecnologias, aplicar 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="38" height="38" style="margin: 4px;" />
 </p>
 
-## 📈 Estatísticas
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoYTorres&show_icons=true&rank_icon=github&theme=tokyonight"
-    height="170"
-    alt="github stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoYTorres&layout=compact&theme=tokyonight"
-    height="170"
-    alt="most used languages"
-  />
-</p>
 
