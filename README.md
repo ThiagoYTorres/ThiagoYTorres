@@ -1,5 +1,5 @@
 # Thiago Yashimura Torres
-**`Estudante de ADS`** **`Desenvolvedor Front-End`**
+**`Estudante`** **`Desenvolvedor Front-End`**
 
 Estudante de Análise e Desenvolvimento de Sistemas, em busca de uma primeira oportunidade na área.
 Possuo conhecimentos em HTML, CSS, JavaScript e React, além de bancos de dados MySQL e Oracle. Tenho familiaridade com Node.js, utilizo Git e GitHub para versionamento de código e Figma como apoio no desenvolvimento de interfaces.
